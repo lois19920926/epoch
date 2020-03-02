@@ -163,5 +163,505 @@
     "line_ID": "Tien",
     "RO_ID": "Yrpil",
     "Job": "逐影"
+  },
+  {
+    "line_ID": "Reeves 佳維",
+    "RO_ID": "艾爾特夏",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "SiMoN",
+    "RO_ID": "西門樣",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "YanOr",
+    "RO_ID": "妙麗~",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "藝櫳",
+    "RO_ID": "怪我瞜？",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "伍紘裕",
+    "RO_ID": "花落樽前酒帶香",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "Yi Ling",
+    "RO_ID": "秋雨鈴",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "Kai",
+    "RO_ID": "琉璃之都",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "Sharon ",
+    "RO_ID": "荻野千尋",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "施智翔",
+    "RO_ID": "夢裡飛翔",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "黃小恩",
+    "RO_ID": "檸檬薄荷",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "傅名揚(綠湖旗緣溫室農場)",
+    "RO_ID": "fighting",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "明佳 - 黃明旺",
+    "RO_ID": "秋山凌",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "CaTer",
+    "RO_ID": "十月OwO",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "RofuOuO",
+    "RO_ID": "宇都宮蘿芙",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "Yancy",
+    "RO_ID": "老公我不要",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "Kenny lam",
+    "RO_ID": "累了就休息",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "阿武",
+    "RO_ID": "逐岸",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "徐嘉佑",
+    "RO_ID": "湯姆瑞斗",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "吳志偉",
+    "RO_ID": "筱巫",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "shin (*☻-☻*) 米米&阿玥",
+    "RO_ID": "米米晞",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Stella(Lily)",
+    "RO_ID": "冷瞳o",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "楊智翰",
+    "RO_ID": "別入遛趟",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "058陳柏泰",
+    "RO_ID": "咖哩貓蕊",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Ming Hsuan",
+    "RO_ID": "星羽恆心",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "旻",
+    "RO_ID": "徐徐JO",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "U_Ze",
+    "RO_ID": "御澤",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "政",
+    "RO_ID": "貴婦馬殺G",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Vera",
+    "RO_ID": "奧神樂",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "ebi",
+    "RO_ID": "楓之精靈",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Nie Zhate",
+    "RO_ID": "酷跑初號機",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Lois",
+    "RO_ID": "雞蛋奶茶",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Chen Chen ",
+    "RO_ID": "Cchen",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Mia",
+    "RO_ID": "Mia0w0",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "咩咩",
+    "RO_ID": "MieYeh",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Karen^^",
+    "RO_ID": "Karenpig",
+    "Job": "修羅"
+  },
+  {
+    "line_ID": "Jyugo",
+    "RO_ID": "布丁夜",
+    "Job": "修羅"
+  },
+  {
+    "line_ID": "張偉榤",
+    "RO_ID": "拳頭比腳大",
+    "Job": "修羅"
+  },
+  {
+    "line_ID": "Wen",
+    "RO_ID": "漂泊唉男子漢",
+    "Job": "修羅"
+  },
+  {
+    "line_ID": "No.4",
+    "RO_ID": "小四月天",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "政",
+    "RO_ID": "不科學企鵝",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "巴燕",
+    "RO_ID": "巴燕",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "雅淇",
+    "RO_ID": "偌希",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "Muchen",
+    "RO_ID": "絆絆兒",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "稚傑",
+    "RO_ID": "疾風刀魂",
+    "Job": "宮廷樂師"
+  },
+  {
+    "line_ID": "R",
+    "RO_ID": "飍嚞",
+    "Job": "宮廷樂師"
+  },
+  {
+    "line_ID": "阿Bute",
+    "RO_ID": "禾火",
+    "Job": "宮廷樂師"
+  },
+  {
+    "line_ID": "奇",
+    "RO_ID": "奇薩",
+    "Job": "宮廷樂師"
+  },
+  {
+    "line_ID": "sun",
+    "RO_ID": "月夜貓卡片",
+    "Job": "冷豔舞者"
+  },
+  {
+    "line_ID": "陳boy",
+    "RO_ID": "台灣尚青",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "李羽",
+    "RO_ID": "羽滴答滴答",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "威顯",
+    "RO_ID": "真奶去腥無糖",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "舜賢",
+    "RO_ID": "馬大富",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "Grace",
+    "RO_ID": "無私的望月",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "啊啊啊～有狗",
+    "RO_ID": "歐姆",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "蚵仔煎",
+    "RO_ID": "飄逸的牙線",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "AndyWin",
+    "RO_ID": "AndyWin",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "Yen🌟",
+    "RO_ID": "一首歌的旋律",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "小昱呦",
+    "RO_ID": "咩安抓攏來",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "阿正",
+    "RO_ID": "素蘭叫共九逃",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "尊昱",
+    "RO_ID": "荊棘谷猛虎",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "潘信諺",
+    "RO_ID": "StarBuck",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "VL",
+    "RO_ID": "心甜",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "蔡小傑",
+    "RO_ID": "夢幻神風",
+    "Job": "法或妖術都可"
+  },
+  {
+    "line_ID": "楊智翰",
+    "RO_ID": "果汁不要雷（掰掰）",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "莊冠諭",
+    "RO_ID": "lilbc",
+    "Job": "主遊俠 副詩人"
+  },
+  {
+    "line_ID": "成  柯俊瑋",
+    "RO_ID": "牽絆",
+    "Job": "妖術師"
+  },
+  {
+    "line_ID": "琳❤️",
+    "RO_ID": "月桃琳",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "Han",
+    "RO_ID": "Atomus",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "雷克斯",
+    "RO_ID": "神拳俏江南",
+    "Job": "盧恩騎士"
+  },
+  {
+    "line_ID": "Huang Lin",
+    "RO_ID": "綠幫白幫紫幫",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "和",
+    "RO_ID": "漠情",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "Ching",
+    "RO_ID": "Ching",
+    "Job": "主教.坦賢"
+  },
+  {
+    "line_ID": "Ching",
+    "RO_ID": "AhChing",
+    "Job": "主教.坦賢.坦魅影"
+  },
+  {
+    "line_ID": "🌺penny🌺",
+    "RO_ID": "豆漿烏龍",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "呂",
+    "RO_ID": "都跟你說了放手",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "🌸若🌸",
+    "RO_ID": "花花～🌸",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "Ma",
+    "RO_ID": "再見再見奶茶",
+    "Job": "魅影/詩人"
+  },
+  {
+    "line_ID": "彤🌷",
+    "RO_ID": "荻朶",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "Minin",
+    "RO_ID": "花芽樂",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "韋霖",
+    "RO_ID": "Georgia",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "fdsaojoe",
+    "RO_ID": "羽澤咩咩",
+    "Job": "皇家禁衛隊"
+  },
+  {
+    "line_ID": "we ru lin",
+    "RO_ID": "Blintic",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "Shem",
+    "RO_ID": "夕日",
+    "Job": "十字斬首者"
+  },
+  {
+    "line_ID": "小楓楓楓楓楓かえで",
+    "RO_ID": "楓歆",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "松鼠",
+    "RO_ID": "正太松鼠",
+    "Job": "機械工匠"
+  },
+  {
+    "line_ID": "呂小婉",
+    "RO_ID": "·菲兒·",
+    "Job": "皇家禁衛隊"
+  },
+  {
+    "line_ID": "忠霖",
+    "RO_ID": "霧齊",
+    "Job": "漫遊舞者"
+  },
+  {
+    "line_ID": "kashu",
+    "RO_ID": "博盡，無悔",
+    "Job": "皇家禁衛隊"
+  },
+  {
+    "line_ID": "義修",
+    "RO_ID": "幻冰語",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "baoooo",
+    "RO_ID": "小蛋撻",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "JunXian",
+    "RO_ID": "Xiao^Zai",
+    "Job": "基因學者"
+  },
+  {
+    "line_ID": "黃子耀",
+    "RO_ID": "悲傷的歸宿",
+    "Job": "遊俠"
+  },
+  {
+    "line_ID": "Bigbirdorz",
+    "RO_ID": "殤霸",
+    "Job": "修羅"
+  },
+  {
+    "line_ID": "Jim-Chan",
+    "RO_ID": "殤霸",
+    "Job": "修羅"
+  },
+  {
+    "line_ID": "David.",
+    "RO_ID": "RoseLove",
+    "Job": "十字斬首者"
+  },
+  {
+    "line_ID": "Nick",
+    "RO_ID": "MaGiCian",
+    "Job": "咒術士"
+  },
+  {
+    "line_ID": "瑞瑞",
+    "RO_ID": "ReiBo",
+    "Job": "大主教"
+  },
+  {
+    "line_ID": "永璽",
+    "RO_ID": "史帝夫汪汪",
+    "Job": "十字斬首者"
+  },
+  {
+    "line_ID": "哲哲哲哲哲哲",
+    "RO_ID": "羽澤咩咩",
+    "Job": "皇家禁衛隊"
+  },
+  {
+    "line_ID": "Fang An",
+    "RO_ID": "Tid",
+    "Job": "修羅"
   }
 ]
